@@ -1,16 +1,15 @@
 # Reporting Security Issues
 
-The Quantum team and community take security bugs in our platform and products seriously. We appreciate your efforts to
-responsibly disclose your findings, and will make every effort to acknowledge your contributions.
+The Quantum team and community strive to provide products that are free of bugs that would impact the privacy and security of your data and resources. We are dedicated to maintain responsible disclosure and make every effort to close any gaps found within our platform or product that is within our scope to correct. We appreciate the dedication and effort to responsibly disclose security findings, and will make every effort to acknowledge contributors.
 
 To report a security issue, email [security.oss@quantum.security](mailto:security.oss@quantum.security) and include the
 word "SECURITY" in the subject line.
 
-The Quantum team will send a response indicating the next steps in handling your report. After the initial reply to your
-report, the security team will keep you informed of the progress towards a fix and full announcement, and may ask for
-additional information or guidance.
+The Quantum team will respond in acknowledgement of your report. After the initial reply to your
+report, the security team will investigate and provide updates towards the resolution and a timeline regarding a full announcement. We may ask for
+additional information or guidance so please be sure to include a way to contact you.
 
-Report security bugs in third-party modules to the person or team maintaining the module. You can also report a
+Report security bugs in third-party modules to the person or team maintaining the module. You may also report a
 vulnerability through the various package registries' responsible reporting processes.
 
 ## Disclosure Policy
